@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v150\Platforms\x64\PlatformToolsets\v141_xp\Toolset.targets(39,5): warning MSB8051: La prise en charge du ciblage de Windows XP est dépréciée et sera absente des futures versions de Visual Studio. Pour plus d'informations, consultez https://go.microsoft.com/fwlink/?linkid=2023588.
+  payloads.c
+C:\Users\Util\Desktop\Vertex-main²\Vertex\payloads.c(28): warning C4087: 'GetVirtualScreenPos' : déclaré avec une liste de paramètres 'void'
+C:\Users\Util\Desktop\Vertex-main²\Vertex\payloads.c(29): warning C4087: 'GetVirtualScreenSize' : déclaré avec une liste de paramètres 'void'
+C:\Users\Util\Desktop\Vertex-main²\Vertex\payloads.c(35): warning C4098: 'Payload1' : fonction 'void' retournant une valeur
+  Vertex.vcxproj -> C:\Users\Util\Desktop\Vertex-main²\x64\Debug\Vertex.exe
